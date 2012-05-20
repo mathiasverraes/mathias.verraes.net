@@ -173,9 +173,7 @@
       <li><a href="http://www.linkedin.com/in/mathiasverraes" title="Mathias Verraes on LinkedIn"><img src="img/social/linkedin.png" height="32" width="32" alt="linkedin" /></a></li>
       <li><a href="http://www.imdb.com/name/nm1637714/" title="Mathias Verraes on the Internet Movie Database"><img src="img/social/imdb.png" height="32" width="32" alt="IMDB" /></a></li>
       <li><a href="http://soundcloud.com/mathias-verraes" title="Songs by Mathias Verraes on Soundcloud"><img src="img/social/soundcloud.png" height="32" width="32" alt="soundcloud" /></a></li>
-      <!-- @todo
        <li><a href="https://github.com/mathiasverraes" title="Fork Mathias Verraes on GitHub"><img src="img/social/github.png" height="32" width="32" alt="GitHub" /></a></li>
-       -->
     </ul>
     <br class="cl" />
   </div>

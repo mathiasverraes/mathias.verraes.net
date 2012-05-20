@@ -25,7 +25,7 @@ h2 {
 	font-size:350%;
 	margin-bottom:20px;
 	letter-spacing:-2px;
-	padding-top:100px;
+	padding-top:60px;
 	color:#333333;
 }
 h2.tagline {
@@ -238,7 +238,7 @@ footer p {
 	right:0;
 }
 section {
-	margin-bottom:220px;
+	margin-bottom:20px;
 	font-size:108%;
 }
 
